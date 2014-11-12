@@ -1,0 +1,5 @@
+{
+  "rupee_green":{"sx":3,"sy":0,"cols":1,"tilew":10,"tileh":16,"frames":1},
+  "rupee_blue":{"sx":19,"sy":0,"cols":1,"tilew":10,"tileh":16,"frames":1},
+  "rupee_red":{"sx":35,"sy":0,"cols":1,"tilew":10,"tileh":16,"frames":1}
+}
